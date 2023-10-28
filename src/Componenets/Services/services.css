@@ -1,0 +1,23 @@
+.services{
+    display: flex;
+    flex-direction: column;
+    gap:2rem;
+    padding: 0 2rem;
+
+}
+ .services-header{
+    display: flex;
+     gap:7rem;
+   font-weight: bold;
+    font-size: 4rem;
+    justify-content: left;
+    color: white;
+    font-style: italic;
+
+}
+.service-categories{
+    display: flex;
+    gap:1rem;
+    background-color: gray;
+    padding: rem;
+}
